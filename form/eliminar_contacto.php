@@ -1,9 +1,9 @@
 <?php
 // Conectar a la base de datos
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "apo";
+$username = "u556471774_apo";
+$password = "Optometria2025";
+$dbname = "u556471774_apoargentina";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
